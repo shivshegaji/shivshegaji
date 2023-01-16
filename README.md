@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivshegaji
 - 👀 I’m interested in Backend & frontend development.
-- 🌱 I’m currently learning React JS & DEV OPS
+- 🌱 I’m currently learning Angular & DEV OPS
 - 📫 How to reach me shegajishankar32@gmail.com 
 
 
